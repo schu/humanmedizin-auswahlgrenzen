@@ -1,0 +1,702 @@
+{
+	"Sommersemester": {
+		"2017": {
+			"Wartezeit": "15",
+			"Durchschnittsnote": "3,0",
+			"Studienort": {
+				"Berlin-Charité": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "3",
+					"Durchschnittsnote": "2,6"
+				},
+				"Erlangen-Nürnberg": {
+					"Ortspräferenz": "5",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,3"
+				},
+				"Gießen": {
+					"Ortspräferenz": "6",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,0"
+				},
+				"Göttingen": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,2"
+				},
+				"Köln": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,3"
+				},
+				"Mainz": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,2"
+				},
+				"Münster": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,1"
+				},
+				"Tübingen": {
+					"Ortspräferenz": "2",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,7"
+				},
+				"Würzburg": {
+					"Ortspräferenz": "N8",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "1,2"
+				}
+			}
+		},
+		"2016": {
+			"Wartezeit": "14",
+			"Durchschnittsnote": "2,5",
+			"Studienort": {
+				"Berlin-Charité": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "3",
+					"Durchschnittsnote": "3,0"
+				},
+				"Erlangen-Nürnberg": {
+					"Ortspräferenz": "5",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "1,7"
+				},
+				"Gießen": {
+					"Ortspräferenz": "N4",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,6"
+				},
+				"Göttingen": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,1"
+				},
+				"Köln": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,1"
+				},
+				"Mainz": {
+					"Ortspräferenz": "3",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,5"
+				},
+				"Münster": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,6"
+				},
+				"Tübingen": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,8"
+				},
+				"Würzburg": {
+					"Ortspräferenz": "N9",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,4"
+				}
+			}
+		},
+		"2015": {
+			"Wartezeit": "13",
+			"Durchschnittsnote": "2,0",
+			"Studienort": {
+				"Berlin-Charité": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "3",
+					"Durchschnittsnote": "3,3"
+				},
+				"Erlangen-Nürnberg": {
+					"Ortspräferenz": "6",
+					"Sozialkriterium": "5",
+					"Durchschnittsnote": "2,4"
+				},
+				"Gießen": {
+					"Ortspräferenz": "N3",
+					"Sozialkriterium": "5",
+					"Durchschnittsnote": "3,4"
+				},
+				"Göttingen": {
+					"Ortspräferenz": "2",
+					"Sozialkriterium": "5",
+					"Durchschnittsnote": "1,0"
+				},
+				"Köln": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "5",
+					"Durchschnittsnote": "1,1"
+				},
+				"Mainz": {
+					"Ortspräferenz": "2",
+					"Sozialkriterium": "5",
+					"Durchschnittsnote": "3,8"
+				},
+				"Münster": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "5",
+					"Durchschnittsnote": "1,9"
+				},
+				"Tübingen": {
+					"Ortspräferenz": "3",
+					"Sozialkriterium": "5",
+					"Durchschnittsnote": "1,9"
+				},
+				"Würzburg": {
+					"Ortspräferenz": "N8",
+					"Sozialkriterium": "5",
+					"Durchschnittsnote": "3,4"
+				}
+			}
+		}
+	},
+	"Wintersemester": {
+		"2017/18": {
+			"Wartezeit": "14",
+			"Durchschnittsnote": "2,6",
+			"Studienort": {
+				"Aachen": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,4"
+				},
+				"Berlin-Charité": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "3",
+					"Durchschnittsnote": "1,9"
+				},
+				"Bochum": {
+					"Ortspräferenz": "2",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,6"
+				},
+				"Bonn": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,6"
+				},
+				"Dresden": {
+					"Ortspräferenz": "2",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,2"
+				},
+				"Duisburg-Essen Campus Essen": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,6"
+				},
+				"Düsseldorf": {
+					"Ortspräferenz": "2",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,5"
+				},
+				"Erlangen-Nürnberg": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,7"
+				},
+				"Frankfurt/Main": {
+					"Ortspräferenz": "N9",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,0"
+				},
+				"Freiburg": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,5"
+				},
+				"Gießen": {
+					"Ortspräferenz": "5",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,4"
+				},
+				"Göttingen": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,5"
+				},
+				"Greifswald": {
+					"Ortspräferenz": "4",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,3"
+				},
+				"Halle-Wittenberg": {
+					"Ortspräferenz": "3",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,0"
+				},
+				"Hamburg": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "3",
+					"Durchschnittsnote": "2,8"
+				},
+				"Hannover MedH": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "3",
+					"Durchschnittsnote": "2,9"
+				},
+				"Heidelberg": {
+					"Ortspräferenz": "2",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,0"
+				},
+				"Heidelberg/Mannheim": {
+					"Ortspräferenz": "3",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,4"
+				},
+				"Jena": {
+					"Ortspräferenz": "N15",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,4"
+				},
+				"Kiel": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,3"
+				},
+				"Köln": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "3",
+					"Durchschnittsnote": "2,3"
+				},
+				"Leipzig": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,4"
+				},
+				"Lübeck": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,4"
+				},
+				"Magdeburg": {
+					"Ortspräferenz": "4",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,5"
+				},
+				"Mainz": {
+					"Ortspräferenz": "2",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,5"
+				},
+				"Marburg": {
+					"Ortspräferenz": "N9",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,7"
+				},
+				"München U": {
+					"Ortspräferenz": "N28",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,2"
+				},
+				"Münster": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "3",
+					"Durchschnittsnote": "2,5"
+				},
+				"Oldenburg": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "3",
+					"Durchschnittsnote": "2,0"
+				},
+				"Regensburg": {
+					"Ortspräferenz": "N24",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,3"
+				},
+				"Rostock": {
+					"Ortspräferenz": "3",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,6"
+				},
+				"Saarland U  Campus Homburg": {
+					"Ortspräferenz": "N35",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,6"
+				},
+				"Tübingen": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,2"
+				},
+				"Ulm": {
+					"Ortspräferenz": "4",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,5"
+				},
+				"Würzburg": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,0"
+				}
+			}
+		},
+		"2016/17": {
+			"Wartezeit": "14",
+			"Durchschnittsnote": "2,9",
+			"Studienort": {
+				"Aachen": {
+					"Ortspräferenz": "4",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,1"
+				},
+				"Berlin-Charité": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "3",
+					"Durchschnittsnote": "1,7"
+				},
+				"Bochum": {
+					"Ortspräferenz": "2",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,4"
+				},
+				"Bonn": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,5"
+				},
+				"Dresden": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,0"
+				},
+				"Duisburg-Essen Campus Essen": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,0"
+				},
+				"Düsseldorf": {
+					"Ortspräferenz": "3",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,1"
+				},
+				"Erlangen-Nürnberg": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,6"
+				},
+				"Frankfurt/Main": {
+					"Ortspräferenz": "6",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,7"
+				},
+				"Freiburg": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,0"
+				},
+				"Gießen": {
+					"Ortspräferenz": "5",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,3"
+				},
+				"Göttingen": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,4"
+				},
+				"Greifswald": {
+					"Ortspräferenz": "2",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,5"
+				},
+				"Halle-Wittenberg": {
+					"Ortspräferenz": "3",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,2"
+				},
+				"Hamburg": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "3",
+					"Durchschnittsnote": "2,7"
+				},
+				"Hannover MedH": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "1,0"
+				},
+				"Heidelberg": {
+					"Ortspräferenz": "2",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,0"
+				},
+				"Heidelberg/Mannheim": {
+					"Ortspräferenz": "3",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "1,0"
+				},
+				"Jena": {
+					"Ortspräferenz": "4",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,5"
+				},
+				"Kiel": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,9"
+				},
+				"Köln": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "3",
+					"Durchschnittsnote": "2,8"
+				},
+				"Leipzig": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,3"
+				},
+				"Lübeck": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,6"
+				},
+				"Magdeburg": {
+					"Ortspräferenz": "4",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,2"
+				},
+				"Mainz": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,1"
+				},
+				"Marburg": {
+					"Ortspräferenz": "N14",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,0"
+				},
+				"München U": {
+					"Ortspräferenz": "N26",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,1"
+				},
+				"Münster": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "3",
+					"Durchschnittsnote": "2,8"
+				},
+				"Oldenburg": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "1,9"
+				},
+				"Regensburg": {
+					"Ortspräferenz": "N24",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,8"
+				},
+				"Rostock": {
+					"Ortspräferenz": "4",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,1"
+				},
+				"Saarland U  Campus Homburg": {
+					"Ortspräferenz": "N35",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,5"
+				},
+				"Tübingen": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,3"
+				},
+				"Ulm": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,8"
+				},
+				"Würzburg": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,7"
+				}
+			}
+		},
+		"2015/16": {
+			"Wartezeit": "14",
+			"Durchschnittsnote": "3,3",
+			"Studienort": {
+				"Aachen": {
+					"Ortspräferenz": "2",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,1"
+				},
+				"Berlin-Charité": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "3",
+					"Durchschnittsnote": "1,8"
+				},
+				"Bochum": {
+					"Ortspräferenz": "2",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,6"
+				},
+				"Bonn": {
+					"Ortspräferenz": "2",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,0"
+				},
+				"Dresden": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,0"
+				},
+				"Duisburg-Essen Campus Essen": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,5"
+				},
+				"Düsseldorf": {
+					"Ortspräferenz": "2",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,3"
+				},
+				"Erlangen-Nürnberg": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,0"
+				},
+				"Frankfurt/Main": {
+					"Ortspräferenz": "N8",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,0"
+				},
+				"Freiburg": {
+					"Ortspräferenz": "2",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,0"
+				},
+				"Gießen": {
+					"Ortspräferenz": "3",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,3"
+				},
+				"Göttingen": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,3"
+				},
+				"Greifswald": {
+					"Ortspräferenz": "2",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,7"
+				},
+				"Halle-Wittenberg": {
+					"Ortspräferenz": "3",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,2"
+				},
+				"Hamburg": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "3",
+					"Durchschnittsnote": "3,2"
+				},
+				"Hannover MedH": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "3",
+					"Durchschnittsnote": "3,0"
+				},
+				"Heidelberg": {
+					"Ortspräferenz": "2",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,4"
+				},
+				"Heidelberg/Mannheim": {
+					"Ortspräferenz": "4",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,2"
+				},
+				"Jena": {
+					"Ortspräferenz": "3",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,3"
+				},
+				"Kiel": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,9"
+				},
+				"Köln": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "3",
+					"Durchschnittsnote": "2,3"
+				},
+				"Leipzig": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,3"
+				},
+				"Lübeck": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,8"
+				},
+				"Magdeburg": {
+					"Ortspräferenz": "2",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,7"
+				},
+				"Mainz": {
+					"Ortspräferenz": "2",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,5"
+				},
+				"Marburg": {
+					"Ortspräferenz": "N9",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,3"
+				},
+				"München U": {
+					"Ortspräferenz": "N27",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,8"
+				},
+				"Münster": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,2"
+				},
+				"Oldenburg": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "3",
+					"Durchschnittsnote": "2,0"
+				},
+				"Regensburg": {
+					"Ortspräferenz": "N24",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,6"
+				},
+				"Rostock": {
+					"Ortspräferenz": "3",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,9"
+				},
+				"Saarland U  Campus Homburg": {
+					"Ortspräferenz": "N35",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,6"
+				},
+				"Tübingen": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,1"
+				},
+				"Ulm": {
+					"Ortspräferenz": "6",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,2"
+				},
+				"Würzburg": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,8"
+				}
+			}
+		}
+	}
+}
