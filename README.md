@@ -1,6 +1,6 @@
 # Humanmedizin Auswahlgrenzen (maschinenlesbar)
 
-Die Auswahlgrenzen für Humanmedizin als JSON Datensatz.
+Die Auswahlgrenzen nach Wartezeitquote für Humanmedizin als JSON Datensatz.
 
 Alle Angaben ohne Gewähr.
 
