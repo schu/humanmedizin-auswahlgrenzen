@@ -1,5 +1,56 @@
 {
 	"Sommersemester": {
+		"2018": {
+			"Wartezeit": "15",
+			"Durchschnittsnote": "2,8",
+			"Studienort": {
+				"Berlin-Charité": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "3",
+					"Durchschnittsnote": "2,6"
+				},
+				"Erlangen-Nürnberg": {
+					"Ortspräferenz": "N9",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,8"
+				},
+				"Gießen": {
+					"Ortspräferenz": "4",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,1"
+				},
+				"Göttingen": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "3,1"
+				},
+				"Köln": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "3",
+					"Durchschnittsnote": "3,1"
+				},
+				"Mainz": {
+					"Ortspräferenz": "4",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,2"
+				},
+				"Münster": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,2"
+				},
+				"Tübingen": {
+					"Ortspräferenz": "1",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,6"
+				},
+				"Würzburg": {
+					"Ortspräferenz": "6",
+					"Sozialkriterium": "4",
+					"Durchschnittsnote": "2,6"
+				}
+			}
+		},
 		"2017": {
 			"Wartezeit": "15",
 			"Durchschnittsnote": "3,0",
